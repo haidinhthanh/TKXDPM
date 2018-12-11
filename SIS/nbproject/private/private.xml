@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/Student/Dao/SqlStudentDao.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>64</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/haidt/OneDrive/Documents/NetBeansProjects/SIS/src/Student/View/MainPage.java</file>
+            <file>file:/C:/Users/haidt/OneDrive/Documents/NetBeansProjects/SIS/src/Course/Dao/CourseDao.java</file>
+            <file>file:/C:/Users/haidt/OneDrive/Documents/NetBeansProjects/SIS/src/Course/View/AddCourseForm.java</file>
+            <file>file:/C:/Users/haidt/OneDrive/Documents/NetBeansProjects/SIS/src/Course/Dao/SqlCourseDao.java</file>
+            <file>file:/C:/Users/haidt/OneDrive/Documents/NetBeansProjects/SIS/src/Course/Model/Course.java</file>
+            <file>file:/C:/Users/haidt/OneDrive/Documents/NetBeansProjects/SIS/src/Register/RegisterClassroom/Control/SignClassController.java</file>
+            <file>file:/C:/Users/haidt/OneDrive/Documents/NetBeansProjects/SIS/src/Classroom/Model/Classroom.java</file>
+            <file>file:/C:/Users/haidt/OneDrive/Documents/NetBeansProjects/SIS/src/Register/RegisterClassroom/Model/SignClassDetail.java</file>
+            <file>file:/C:/Users/haidt/OneDrive/Documents/NetBeansProjects/SIS/src/PermissionRegis/Model/PermisionRegis.java</file>
+            <file>file:/C:/Users/haidt/OneDrive/Documents/NetBeansProjects/SIS/src/Register/RegisterCourse/Control/SignCourseController.java</file>
+            <file>file:/C:/Users/haidt/OneDrive/Documents/NetBeansProjects/SIS/src/Course/Control/CourseController.java</file>
+            <file>file:/C:/Users/haidt/OneDrive/Documents/NetBeansProjects/SIS/src/Register/RegisterCourse/View/SignCourseForm.java</file>
+            <file>file:/C:/Users/haidt/OneDrive/Documents/NetBeansProjects/SIS/src/Register/RegisterClassroom/View/SignClassForm.java</file>
+        </group>
+    </open-files>
+</project-private>
